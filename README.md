@@ -26,8 +26,10 @@ Hardware:
 Programming Languages:
 - C
 - Python
+- SQL
 
 Libraries:
+- [SQLite3](https://www.sqlite.org/index.html)
 - [Wiring Pi](http://wiringpi.com/)
 - [Gspread](https://docs.gspread.org/en/latest/)
 - [OLED Display](https://github.com/adafruit/Adafruit_SSD1306)
