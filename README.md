@@ -35,4 +35,4 @@ Libraries:
 *Note: This project was built upon my previous (simpler) food scale project that used the Atmega1284. For this project I ported my original code over to the Raspberry Pi. See my other github repo for the base code*
 
 ## Additional Documentation
-For additional documentation on this project, including a full Bill of Materials, a pinout diagram, my testing methodology, etc. please see my report [here](https://docs.google.com/document/d/1Y7rQbFt16Oc6LtM1B5nCzM-uwgqWTCO8CRwr7NF1Zvk/edit?usp=sharing)
+For additional documentation on this project, including a full Bill of Materials, a pinout diagram, my testing methodology, etc. please see my report [here.](https://docs.google.com/document/d/1Y7rQbFt16Oc6LtM1B5nCzM-uwgqWTCO8CRwr7NF1Zvk/edit?usp=sharing)
