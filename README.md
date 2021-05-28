@@ -11,7 +11,7 @@ This project was created by Michael De Sousa in the fall of 2019.
 
 A food scale is a common kitchen device that allows a user to weigh their food portions. The user can place their food on the scale and read its weight in a variety of different unit types. My project takes this concept and builds upon it by adding a barcode scanner, food database, and WiFi functionality. 
 
-The scale uses a barcode scanner to look up foods in an SQLite database. Then, it calculates and displays nutritional values (calories, carbs, fats, etc.) in real-time based on the portion currently on the scale. Finally, the user can press a button on the scale to upload these nutritional values to an online spreadsheet/food diary. This helps automate calorie counting to make it an easier/faster process.
+The scale uses a barcode scanner to look up foods in an SQLite database. Then, it calculates and displays nutritional values (calories, carbs, fats, etc.) in real-time based on the portion currently on the scale. Finally, the user can press a button on the scale to upload these nutritional values (using wifi) to an online spreadsheet/food diary. This helps automate calorie counting to make it an easier/faster process.
 
 ![Smart Scale-1](https://user-images.githubusercontent.com/22509729/119907564-6549a900-bf05-11eb-9076-25894addcaf4.png)
 
